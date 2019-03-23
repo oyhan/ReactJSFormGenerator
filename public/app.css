@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "IranSansFa";
+    src : url("./Fonts/IRANSansWeb\(FaNum\).ttf")
+}
+
+
+.RichTextEditor__root___2QXK-{
+    height : inherit;
+    font-family: "IranSansFa" !important;
+}
+
+.RichTextEditor__editor___1QqIU {
+    height: inherit;
+}
